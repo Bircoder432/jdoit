@@ -42,10 +42,6 @@ jdoit commit "Fix bug" -a
 
 ## 📦 Installation
 
-```bash
-cargo install jdoit
-```
-
 Or build from source:
 
 ```bash
